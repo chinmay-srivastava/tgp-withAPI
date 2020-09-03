@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/tgp-library2/static/css/main.386a00e2.chunk.css",
+    "main.js": "/tgp-library2/static/js/main.7ed154ac.chunk.js",
+    "main.js.map": "/tgp-library2/static/js/main.7ed154ac.chunk.js.map",
+    "runtime-main.js": "/tgp-library2/static/js/runtime-main.e80de003.js",
+    "runtime-main.js.map": "/tgp-library2/static/js/runtime-main.e80de003.js.map",
+    "static/css/2.2be9f50c.chunk.css": "/tgp-library2/static/css/2.2be9f50c.chunk.css",
+    "static/js/2.a42f0348.chunk.js": "/tgp-library2/static/js/2.a42f0348.chunk.js",
+    "static/js/2.a42f0348.chunk.js.map": "/tgp-library2/static/js/2.a42f0348.chunk.js.map",
+    "index.html": "/tgp-library2/index.html",
+    "precache-manifest.193197eeec6f71eb12b399cc14c4c7f3.js": "/tgp-library2/precache-manifest.193197eeec6f71eb12b399cc14c4c7f3.js",
+    "service-worker.js": "/tgp-library2/service-worker.js",
+    "static/css/2.2be9f50c.chunk.css.map": "/tgp-library2/static/css/2.2be9f50c.chunk.css.map",
+    "static/css/main.386a00e2.chunk.css.map": "/tgp-library2/static/css/main.386a00e2.chunk.css.map",
+    "static/js/2.a42f0348.chunk.js.LICENSE.txt": "/tgp-library2/static/js/2.a42f0348.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/tgp-library2/static/media/logo.5d5d9eef.svg",
+    "static/media/placehold.jpeg": "/tgp-library2/static/media/placehold.e751f269.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e80de003.js",
+    "static/css/2.2be9f50c.chunk.css",
+    "static/js/2.a42f0348.chunk.js",
+    "static/css/main.386a00e2.chunk.css",
+    "static/js/main.7ed154ac.chunk.js"
+  ]
+}
